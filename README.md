@@ -3,6 +3,7 @@ This repository documents my insights gained from my extensive experience in tes
 
 
 Project: Testing Captiva OCR (Optical Character Recognition) Application
+
 Description: 
 The goal of this project is to test the accuracy and functionality of scanned documents in relation to the database, front-end application, and Captiva application.
 
