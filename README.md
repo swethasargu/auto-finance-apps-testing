@@ -9,5 +9,28 @@ This project aims to test the accuracy and functionality of scanned documents in
 
 Tools used: Documentum Query Language, Captiva, HP ALM
 
+Team Size: 6
+
+Team Location: Hyderabad, India
+
+Client Location: Auto Finance Company based out of California
+
+Following Test Lifecycle phases were executed as part of this project: 
+1.  Requirements Gathering
+2.  Testing Planning
+3.  Test Design
+4.  Test Environment Setup
+5.  Test Execution
+6.  Test Reporting and Defect Management
+7.  System Integration and User Acceptance Testing
+8.  Regression Testing
+9.  Test Closure
+
+
+Final Outcome: 
+
+
+
+
 
 
